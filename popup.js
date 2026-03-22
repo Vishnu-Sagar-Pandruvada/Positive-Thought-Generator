@@ -7,7 +7,6 @@ const positiveThoughts = [
   "Your attitude is critical to success",
   "If you're going through hell, keep going",
   "Winners never quit, and quitters never win",
-  "Doubt kills more dreams than failure ever will",
   "If you want the rainbow, you have to put up with the rain",
   "Those who say it can't be done are usually interrupted by others doing it",
   "Optimism is the faith that leads to achievement",
@@ -23,7 +22,6 @@ const positiveThoughts = [
   "All our dreams can come true, if we have the courage to pursue them",
   "The future belongs to those who believe in the beauty of their dreams",
   "Winners never quit, and quitters never win",
-  "Doubt kills more dreams than failure ever will",
   "If something is important enough, even if the odds are against you, you should still do it.",
   "The only way to do great work is to love what you do.",
 
